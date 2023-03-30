@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "fab6b5f03e66bb144875992631973f01-tulum-ruins.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
